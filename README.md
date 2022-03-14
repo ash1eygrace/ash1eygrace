@@ -1,4 +1,4 @@
-<img src="https://github.com/ash1eygrace/ash1eygrace/blob/master/git-profile-readme.gif?raw=true" width="100%"/>
+<img src="https://github.com/ash1eygrace/ash1eygrace/blob/master/Hey%20there.gif?raw=true" width="100%"/>
 
 👋 Hi, I'm Ashley. 
 
