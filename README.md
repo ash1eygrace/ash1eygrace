@@ -6,6 +6,8 @@
 
 🌱 I’m currently learning Javascript, Node.js and TDD with Jest via [The Odin Project's curriculum](https://theodinproject.com). Plus, learning all the other technologies like Git, GitHub, Bash/Zsh, and VSC along the way. 
 
+📫 How to reach me: https://ash1eygrace.com/contact
+
 <!--
 **ash1eygrace/ash1eygrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
