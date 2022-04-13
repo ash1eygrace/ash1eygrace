@@ -4,7 +4,7 @@
 
 👩🏻‍💻 I'm a Happiness Engineer at Automattic who provides escelated support for wordpress.com 
 
-🌱 I’m currently learning Javascript, Node.js and TDD with Jest via [The Odin Project's curriculum](https://theodinproject.com). Plus, learning all the other technologies like Git, GitHub, Bash/Zsh, and VSC along the way. 
+🌱 I’m currently learning full-stack JavaScript via [The Odin Project's curriculum](https://www.theodinproject.com/paths/full-stack-javascript?). Plus, learning all the other technologies like Git, GitHub, Bash/Zsh, and VSC along the way.
 
 <!--
 **ash1eygrace/ash1eygrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
