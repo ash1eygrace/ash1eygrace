@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Ashley. 
 
-👩🏻‍💻 I'm a Happiness Engineer at Automattic who provides escelated support for wordpress.com 
+👩🏻‍💻 I'm a Happiness Engineer at Automattic who provides escalated support for wordpress.com 
 
 🌱 I’m currently learning full-stack JavaScript via [The Odin Project's curriculum](https://www.theodinproject.com/paths/full-stack-javascript?). Plus, learning all the other technologies like Git, GitHub, Bash/Zsh, and VSC along the way.
 
