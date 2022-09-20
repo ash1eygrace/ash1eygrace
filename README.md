@@ -1,12 +1,12 @@
 <img src="https://github.com/ash1eygrace/ash1eygrace/blob/master/hey_there.gif?raw=true" width="100%"/>
 
-👋 Hi, I'm Ashley. 
+👋 Hi, I’m Ashley. 
 
-👩🏻‍💻 I'm a Happiness Engineer at Automattic who provides escalated support for WordPress.com, Pressable.com, and Newspack.pub.
+👩🏻‍💻 I’m a Happiness Engineer at Automattic and provide escalated support for WordPress.com, Pressable.com, and Newspack.pub.
 
-🌱 I’m currently learning full-stack JavaScript via [The Odin Project's curriculum](https://www.theodinproject.com/paths/full-stack-javascript?), and dabbling in React and Node.js along the way. 
+🌱 I’m currently learning full-stack JavaScript via [The Odin Project’s curriculum](https://www.theodinproject.com/paths/full-stack-javascript?), and dabbling in React and Node.js along the way. 
 
-🔭 I’m currently working on [AshAI](https://github.com/ash1eygrace/ai-content) a React App that uses OpenAI's GTP-3 auto-regressive language model to produce human like text. 
+🔭 I’m currently working on [AshAI](https://github.com/ash1eygrace/ai-content), a React App that uses OpenAI’s GTP-3 auto-regressive deep learning language model to generate human-like text. 
 
 <!--
 **ash1eygrace/ash1eygrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
