@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Ashley. 
 
-👩🏻‍💻 I’m a Happiness Engineer at Automattic and provide escalated support for WordPress.com, Pressable.com, and Newspack.pub.
+👩🏻‍💻 I work as a Happiness Engineer at Automattic providing escalated support for WordPress.com, Pressable.com, and Newspack.pub.
 
 🌱 I’m currently learning full-stack JavaScript via [The Odin Project’s curriculum](https://www.theodinproject.com/paths/full-stack-javascript?), and dabbling in React and Node.js along the way. 
 
