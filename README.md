@@ -2,11 +2,18 @@
 
 👋 Hi, I’m Ashley. 
 
-👩🏻‍💻 I work as a Happiness Engineer at Automattic providing escalated support for WordPress.com, Pressable.com, and Newspack.pub.
+🌱 I'm focused on learning and mastering full-stack JavaScript, TypeScript, React, and Node.js. 
 
-🌱 I’m currently learning full-stack JavaScript via [The Odin Project’s curriculum](https://www.theodinproject.com/paths/full-stack-javascript?), and dabbling in React and Node.js along the way. 
+👩🏻‍💻 I work at Automattic, where I assist Happiness Engineers in supporting users of WordPress.com plugin-enbabled sites.
 
-🔭 I’m currently working on [AshAI](https://github.com/ash1eygrace/ai-content), a React App that uses OpenAI’s GTP-3 auto-regressive deep learning language model to generate human-like text. 
+🔭 I’m working on [AshAI](https://github.com/ash1eygrace/ai-content), a React App that uses OpenAI’s GTP-3 auto-regressive deep learning language model to generate human-like text and a retro-style pixel display app for my [TidByte](https://github.com/tidbyt/community/).
+
+⚡ Fun fact: I'm a zombie and post-apocalyptic addict! Recommendations: 
+- [The Last of Us](https://www.playstation.com/en-ca/games/the-last-of-us-part-i/) is an exceptionally beautiful and terrifying story. The show has done the game justice!
+- [Dying Light](https://store.steampowered.com/agecheck/app/239140/) has the best co-op gameplay experience! 
+- [Far Cry 5](https://store.steampowered.com/agecheck/app/552520/) cultish survival sandbox with co-op, yes, please! 
+- [Train to Busan](https://en.wikipedia.org/wiki/Train_to_Busan) is my go-to movie for a fix.
+- [The Girl with All the Gifts](https://www.goodreads.com/book/show/17235026-the-girl-with-all-the-gifts) and [Day by Day Armageddon](https://www.goodreads.com/book/show/74821.Day_by_Day_Armageddon) are both phenomenal reads! 
 
 <!--
 **ash1eygrace/ash1eygrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
