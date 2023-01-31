@@ -12,8 +12,8 @@
 - [The Last of Us](https://www.playstation.com/en-ca/games/the-last-of-us-part-i/) is an exceptionally beautiful and terrifying story.
 - [Dying Light](https://store.steampowered.com/agecheck/app/239140/) has the best co-op gameplay experience! 
 - [Far Cry 5](https://store.steampowered.com/agecheck/app/552520/) a cultish, survival, open world with co-op, yes, please! 
-- [Train to Busan](https://en.wikipedia.org/wiki/Train_to_Busan) is my go-to movie for a fix.
-- [The Girl with All the Gifts](https://www.goodreads.com/book/show/17235026-the-girl-with-all-the-gifts) and [Day by Day Armageddon](https://www.goodreads.com/book/show/74821.Day_by_Day_Armageddon) are both phenomenal reads! 
+- [Train to Busan](https://en.wikipedia.org/wiki/Train_to_Busan) is my favorite zombie movie.
+- [The Girl with All the Gifts](https://www.goodreads.com/book/show/17235026-the-girl-with-all-the-gifts) and [Day by Day Armageddon](https://www.goodreads.com/book/show/74821.Day_by_Day_Armageddon) are phenomenal reads! 
 
 <!--
 **ash1eygrace/ash1eygrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
