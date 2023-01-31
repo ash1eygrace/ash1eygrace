@@ -8,12 +8,7 @@
 
 🔭 I’m working on [AshAI](https://github.com/ash1eygrace/ai-content), a React App that uses OpenAI’s GTP-3 auto-regressive deep learning language model to generate human-like text and a retro-style pixel display app for my [TidByte](https://github.com/tidbyt/community/).
 
-⚡ Fun fact: I'm a zombie and post-apocalyptic addict! Recommendations: 
-- [The Last of Us](https://www.playstation.com/en-ca/games/the-last-of-us-part-i/) is an exceptionally beautiful and terrifying story.
-- [Dying Light](https://store.steampowered.com/agecheck/app/239140/) has the best co-op gameplay experience! 
-- [Far Cry 5](https://store.steampowered.com/agecheck/app/552520/) a cultish, survival, open world with co-op, yes, please! 
-- [Train to Busan](https://en.wikipedia.org/wiki/Train_to_Busan) is my favorite zombie movie.
-- [The Girl with All the Gifts](https://www.goodreads.com/book/show/17235026-the-girl-with-all-the-gifts) and [Day by Day Armageddon](https://www.goodreads.com/book/show/74821.Day_by_Day_Armageddon) are phenomenal reads! 
+⚡ Fun fact: I'm a zombie and post-apocalyptic addict! Recommendations: [The Last of Us](https://www.playstation.com/en-ca/games/the-last-of-us-part-i/), [Dying Light](https://store.steampowered.com/agecheck/app/239140/), [Far Cry 5](https://store.steampowered.com/agecheck/app/552520/), [Train to Busan](https://en.wikipedia.org/wiki/Train_to_Busan), [The Girl with All the Gifts](https://www.goodreads.com/book/show/17235026-the-girl-with-all-the-gifts) and [Day by Day Armageddon](https://www.goodreads.com/book/show/74821.Day_by_Day_Armageddon). 
 
 <!--
 **ash1eygrace/ash1eygrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
