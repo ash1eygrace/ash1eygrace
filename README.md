@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Ashley. 
 
-🌱 I'm delving into full-stack JavaScript development, with a particular emphasis on TypeScript, React, and Node.js. 
+🌱 I'm delving into full-stack JavaScript development, with a particular emphasis on React. 
 
 👩🏻‍💻 I work at Automattic, where I assist Happiness Engineers in supporting users of WordPress.com plugin-enbabled sites.
 
